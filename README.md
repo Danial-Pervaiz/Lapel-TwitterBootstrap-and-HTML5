@@ -1,9 +1,51 @@
-# Lapel
+# Lapel web template
 
-Lapel is multipurpose Muse Template for agencies, freelancers, developers or other types of business. When creating this product we focused on details and optimal deployment of components.
+Lapel is multipurpose Muse Template for agencies, freelancers, developers or other types of business. When creating this product we focused on details and optimal deployment of components.This template is created by HTML5 and CSS3. It is designed with love and developed with care. thanks for watching my portfolio
 
-<h6> Studios & Agencies </h6>
+<h6>Languages and frameworks<h6/>
 
-<img src="https://d1a6a9r46cnyll.cloudfront.net/75f62efef81670d380edead98a80141b2f7895a3/687474703a2f2f616472692e706c2f7468656d65732f706963732f70726f6d6f2d6c6170656c2e706e67">
+<ul>
+ <li>
+  Html5
+ </li>
+  <li>
+  CSS3
+ </li>
+ <li>
+  Twitter Bootstrap 3.7
+ </li>
+ <li>
+  JavaScript
+ </li>
+ <li>
+  JQuery
+ </li>
+ <li>
+  CSS preprocessing language LESS
+ </li>
+ <li>
+  Forms validations
+ </li>
+ <li>
+  Responsive design
+ </li>
+ <li>
+  Dropdown menus
+ </li> 
+</ul>
 
-<img src="http://danielpervaiz.com/github/images/lapel.png">
+<h6> Categories </h6>
+
+<ul>
+ <li>
+  One page 
+ </li>
+  <li>
+  Multi page
+ </li>
+</ul>
+
+<img src="http://danielpervaiz.com/github/images/lapel-1.png"/>
+<img src="http://danielpervaiz.com/github/images/lapel-2.png"/>
+<img src="http://danielpervaiz.com/github/images/lapel-3.png"/>
+<img src="http://danielpervaiz.com/github/images/lapel-4.png"/>
